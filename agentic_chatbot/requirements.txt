@@ -3,3 +3,10 @@ langchain-openai
 dotenv
 streamlit
 langgraph-checkpoint-sqlite
+langchain_google_genai
+langchain_tavily
+tavily_python
+langchain_community
+pypdf
+faiss-cpu
+sentence_transformers
